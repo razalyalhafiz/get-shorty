@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-input {
+  width: 290px;
+}
+
+.App-button {
+  margin-left: 2px;
+}
+
+.App-output {
+  margin-top: 20px;
+}
+
+.App-output a {
+  color: #61dafb;
+}
+
+.App-output p {
+  margin-top: 0;
+  color: red;
+}
