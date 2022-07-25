@@ -1,4 +1,4 @@
-# Getting Started with Get Shorty App
+# Getting Started with the Get Shorty App
 
 A _React_ app to generate a shortened URL using _Rebrandly_.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
